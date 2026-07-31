@@ -1,0 +1,90 @@
+{
+    "storyboards": [
+        {
+            "scenes": [
+                {
+                    "script_segment": "He plunged his horse off a thirty-foot cliff, fully armored, into a raging river.",
+                    "visual_description": "In a dramatic, frozen moment, <Jalal al-Din>, a warrior in ornate armor, is mid-air on his powerful horse, <Jalal's Horse>. They have just leaped from a high, rocky cliff. Below them, the turbulent, muddy waters of <The Indus River> churn violently. <Jalal al-Din>'s face is a mask of pure, desperate determination."
+                },
+                {
+                    "script_segment": "And Genghis Khan, the most feared conqueror, ordered his archers not to shoot.",
+                    "visual_description": "On a dusty battlefield overlook, <Genghis Khan>, a formidable figure on his dark warhorse, forcefully raises his hand in a 'stop' gesture. Behind him, a line of Mongol archers, who were in the process of drawing their bows, slowly and obediently lower their weapons in unison, their faces showing surprise."
+                },
+                {
+                    "script_segment": "On this day, November 24, 1221, the Battle of the Indus unfolded between the forces of Jalal al-Din, the Khwarazmshah, and Genghis Khan's Mongol army.",
+                    "visual_description": "A wide, chaotic battle scene on the banks of <The Indus River>. Mongol cavalry, led by <Genghis Khan>, charges from the right, clashing violently with the Khwarazmian infantry. Dust and the spray from the river fill the air as the two armies engage in a desperate struggle."
+                },
+                {
+                    "script_segment": "This decisive engagement marked the concluding chapter of the Mongol invasion of the Khwarazmian Empire.",
+                    "visual_description": "A group of Mongol warriors on foot systematically pushes back a line of exhausted Khwarazmian soldiers. One Mongol warrior slams his shield into a Khwarazmian, forcing him to stumble backward towards the river's edge, illustrating the overwhelming force."
+                },
+                {
+                    "script_segment": "Jalal al-Din's army found itself trapped against the mighty Indus River.",
+                    "visual_description": "A high-angle shot reveals the Khwarazmian army, their backs to the vast and churning <The Indus River>. The Mongol army forms a closing semi-circle around them, pressing them against the water in a hopeless position."
+                },
+                {
+                    "script_segment": "After an earlier upset victory against the Mongols, Jalal al-Din's army had weakened significantly due to internal disputes and the pursuit by Genghis Khan.",
+                    "visual_description": "Inside a large, dimly lit campaign tent at night, <Jalal al-Din> stands over a map-strewn table, gesturing angrily as he argues with two of his generals. The generals look away from him, their body language showing defiance and division."
+                },
+                {
+                    "script_segment": "With his forces outnumbered and cornered on the riverbanks, the Shah realized his position was hopeless.",
+                    "visual_description": "A tight close-up on the face of <Jalal al-Din> amidst the battle. His face is streaked with dirt and sweat. He looks out over his dwindling, struggling forces with an expression of profound despair, then his eyes shift towards the cliff edge, and a flicker of desperate resolve appears."
+                },
+                {
+                    "script_segment": "As the battle turned decisively against him, Jalal al-Din, in full armor, made a desperate decision.",
+                    "visual_description": "From a position behind <Jalal al-Din>, we see him on <Jalal's Horse>. He pulls sharply on the reins, turning the horse away from the chaotic battle and towards the sheer thirty-foot drop to <The Indus River>. His body is tense as he prepares for the leap."
+                },
+                {
+                    "script_segment": "He rode his horse off a thirty-foot cliff, plunging into the turbulent waters of the Indus!",
+                    "visual_description": "A dramatic side-angle shot. <Jalal al-Din> spurs <Jalal's Horse>, and the animal leaps powerfully from the edge of the cliff. For a moment, they are silhouetted against the sky before beginning their dramatic descent towards the raging river below."
+                },
+                {
+                    "script_segment": "Struck by this audacious act of bravery, Genghis Khan commanded his archers to hold their fire, allowing his formidable enemy to reach the opposite shore.",
+                    "visual_description": "A close-up on <Genghis Khan>'s face. His stern expression has melted into a look of genuine astonishment and admiration. He watches <Jalal al-Din>'s escape, then turns to his men and shouts a command, his expression conveying a deep respect for his enemy's courage."
+                },
+                {
+                    "script_segment": "Though Jalal al-Din escaped, his family and nearly all his remaining soldiers were tragically lost, signifying the end of organized Khwarazmian resistance.",
+                    "visual_description": "A somber, quiet scene on the riverbank after the battle. A small, huddled group of Khwarazmian women and children, <Jalal al-Din>'s captured family, are guarded by stoic Mongol soldiers. The women weep silently, their faces etched with grief and loss."
+                },
+                {
+                    "script_segment": "This extraordinary moment solidified Genghis Khan's legacy not only as a ruthless conqueror but also as a leader capable of profound respect for an enemy's courage .",
+                    "visual_description": "A final, powerful shot of <Genghis Khan> on his warhorse, silhouetted against the setting sun. He gazes intently across the wide <The Indus River>, watching the distant shore where <Jalal al-Din> disappeared. His face is a complex mask of a ruthless victor who also understands and respects profound courage."
+                }
+            ]
+        }
+    ],
+    "selected_storyboard_index": 0,
+    "lookbook": {
+        "mood_color_palette": "An earthy and brutal palette dominated by dusty browns, ochre, and the muddy green-brown of a turbulent river. Splashes of deep crimson for blood and banners provide a stark contrast. The glint of iron and steel from armor and weapons should cut through the dust and spray. Evening and tent scenes will be lit by the warm, flickering orange of firelight, creating deep shadows. The overall mood is one of desperate conflict and vast, unforgiving landscapes.",
+        "characters": [
+            {
+                "name": "<Jalal al-Din>",
+                "appearance": "A man in his early 20s, born in 1199. He has a Turkic-Persian appearance, with dark hair and a determined, intense expression. As the last Shah of the Khwarazmian Empire, he carries an air of beleaguered royalty. His face should be streaked with the dirt and sweat of battle, showing profound despair mixed with fierce resolve.",
+                "attire": "He wears ornate but functional Khwarazmian armor. This would likely be lamellar or scale armor, composed of small iron plates laced together, worn over a padded garment. His helmet is a conical iron helmet, possibly with a mail aventail protecting the neck. He is armed with a curved Turco-Persian sabre. The overall look is that of a once-great empire now fighting for its very survival."
+            },
+            {
+                "name": "<Genghis Khan>",
+                "appearance": "In 1221, Genghis Khan was around 60 years old. He has a formidable and imposing presence, with features characteristic of Mongolian people. His expression is typically stern and ruthless, but in this story, it shifts to one of genuine astonishment and admiration.",
+                "attire": "He wears Mongol armor, which was typically lighter than its counterparts. This consists of a lamellar cuirass made of hardened leather or iron plates, worn over a heavy silk deel (robe). The silk under-vest was a practical defense, as it would wrap around an arrowhead, allowing it to be pulled out more easily. He wears a conical iron helmet with a possible fur lining and carries a Mongol composite bow and a sabre."
+            },
+            {
+                "name": "<Jalal al-Din's captured family>",
+                "appearance": "A group of noblewomen and children. Their faces are etched with grief, fear, and loss following the battle's conclusion.",
+                "attire": "They wear 13th-century Khwarazmian noble attire. This would consist of long, layered robes or gowns made from fine fabrics, though now likely torn and dirt-stained. Women would wear head coverings such as veils or draped cloaks called 'heuke'. The clothing, while once elegant, now reflects their tragic and captive status."
+            }
+        ],
+        "locations": [
+            {
+                "name": "<The Indus River>",
+                "architecture_style": "A natural, untamed landscape. The battle took place in what is now Pakistan, on November 24, 1221. One bank is a high, rocky cliff, described as a thirty-foot drop. The other bank is a flatter, wider plain where the main battle occurs. The terrain is dusty and chaotic, churned up by thousands of soldiers and horses. The river itself is wide, fast-flowing, and muddy, especially during the flood season of late autumn.",
+                "lighting_atmosphere": "The primary battle scenes are under the harsh light of day, filled with dust and the spray of the river. The atmosphere is chaotic, violent, and desperate. The final scenes transition to the golden, dramatic light of a setting sun, casting long shadows and silhouetting figures against the sky, creating a mood that is both somber and epic."
+            }
+        ],
+        "objects": [
+            {
+                "name": "<Jalal's Horse>",
+                "description": "A powerful and resilient warhorse, likely of a Turkoman or Akhal-Teke type breed, known for endurance and sturdiness. These horses were not heavy draft animals but were stocky, agile, and bred for speed and responsiveness in battle, typically around 15 hands high. The horse is equipped with 13th-century Central Asian tack, including a wooden saddle with high arches and iron stirrups, designed to give the rider stability."
+            }
+        ]
+    }
+}

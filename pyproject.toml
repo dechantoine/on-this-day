@@ -1,0 +1,43 @@
+[project]
+name = "on-this-day"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.uv]
+default-groups = "all"
+
+[dependency-groups]
+gemini = [
+    "google-genai>=1.19.0",
+    "wikipedia>=1.4.0"
+]
+tts = [
+    "elevenlabs>=2.5.0",
+]
+audio = [
+    "librosa>=0.11.0",
+    "pydub>=0.25.1",
+    "soundfile>=0.13.1",
+]
+video = [
+    "moviepy>=2.2.1",
+    "pillow>=11.2.1",
+]
+dev = [
+    "notebook>=7.4.3",
+    "pytest>=8.4.1",
+]
+default = [
+    "click>=8.2.1",
+    "dynaconf>=3.2.11",
+    "gradio>=5.42.0",
+    "ipywidgets>=8.1.7",
+    "loguru>=0.7.3",
+    "numpy>=2.3.0",
+    "tqdm>=4.67.1",
+]
+
+[tool.uv.sources]
+ltx-video = {git = "https://github.com/Lightricks/LTX-Video"}

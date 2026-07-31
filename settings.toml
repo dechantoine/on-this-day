@@ -1,0 +1,102 @@
+[gemini]
+GEMINI_SCRIPT_GENERATOR=''
+GEMINI_PROMPT_GENERATOR=''
+GEMINI_TEXT_ENHANCER=''
+GEMINI_WIKI_EVENTS=''
+PROJECT_ID=''
+LOCATION_ID=''
+
+[gcp.imagen]
+PROJECT_ID=''
+LOCATION_ID=''
+MODEL_NAME=''
+NUMBER_OF_IMAGES=1
+DEFAULT_FOLDERPATH='generated_images'
+ASPECT_RATIO='9:16'
+SAFETY_FILTER_LEVEL='BLOCK_ONLY_HIGH'
+GUIDANCE_SCALE=1.0
+PERSON_GENERATION='ALLOW_ALL'
+IMAGE_PROMPT_LANGUAGE='en'
+ENHANCE_PROMPT=false
+
+[audio]
+TRIM_ONLY=false # if true, only trim silence at start and end of audio, if false, cut silence everywhere
+SILENCE_TOP_DB=20 # lower is more sensitive
+SILENCE_REDUCTION_PERCENTAGE=0.6 # 0.0 to 1.0, 1 means full trim
+
+[eleven_labs]
+API_KEY=''
+#VOICE_ID='wJqPPQ618aTW29mptyoc'
+VOICE_ID='cgSgspJ2msm6clMCkdW9'
+MODEL_ID='eleven_v3'
+OUTPUT_FORMAT='mp3_44100_128'
+
+[eleven_labs.voice_settings]
+APPLY_TEXT_NORMALIZATION='on'
+STABILITY=0 # One of [0.0, 0.5, 1.0] with eleven_v3 else 0.0 to 1.0
+USE_SPEAKER_BOOST=true
+SIMILARITY_BOOST=0.8
+STYLE=0
+#SPEED=1.2
+SPEED=1.2
+
+[video]
+FPS=24
+IMAGE_HEIGHT=1408 #832
+IMAGE_WIDTH=768 #480
+ENABLE_ZOOM=true
+ZOOM_END_SCALE=1.1 # final zoom scale of all images (non-constant zoom)
+ZOOM_SPEED_SCALE=1.075 # zoom after each second passed on an image (constant zoom)
+
+[video.subtitles]
+ENABLE=true
+FONT='fonts/caveatbrush.ttf'
+FONTSIZE=56 #56
+CURRENT_WORD_COLOR="#FFFF00"
+OTHER_WORDS_COLOR="white"
+POSITION="bottom_center"
+STROKE_COLOR='black'
+STROKE_WIDTH=2
+BOTTOM_MARGIN=180 #180
+LEFT_MARGIN=25 #50
+RIGHT_MARGIN=25 #50
+TOP_MARGIN=25 #50
+LINE_SPACING_RATIO=1.2
+MAX_CHARACTERS=38
+
+[video.title]
+ENABLE=true
+FONT='fonts/caveatbrush.ttf'
+FONTSIZE=150
+TEXT_COLOR="#FFFF00"
+POSITION="center"
+STROKE_COLOR='black'
+STROKE_WIDTH=6
+LINE_SPACING_RATIO=1.2
+MAX_CHARACTERS=45
+
+[app]
+WIKI_EVENTS_FILENAME='wiki_events.json'
+WIKI_EVENTS_QUALIFIED_FILENAME='wiki_events_qualified.json'
+WIKI_CHOSEN_EVENT_FILENAME='wiki_chosen_events.json'
+GENERATED_SCRIPTS_FILENAME='generated_scripts.json'
+CHOSEN_SCRIPT_FILENAME='chosen_script.json'
+GENERATED_STORYBOARD_FILENAME='generated_storyboard.json'
+IMAGES_PROMPTS_FILENAME='image_prompts.json'
+IMAGES_TEMP_FOLDER='temp_images'
+IMAGES_FOLDER_TEMPLATE='candidate_images/images_{script_segment}'
+IMAGES_FINAL_FOLDER='chosen_images'
+AUDIOS_TEMP_FOLDER='temp_audios'
+ENHANCED_TEXT_FILENAME='script_enhanced.json'
+SPLIT_TEXTS_FILENAME='split_texts.json'
+AUDIO_CUT_FILENAME='audio_cut.json'
+AUDIO_FILENAME='audio.wav'
+SPEECH_ADAPTERS_FILENAME='speech_adapters.json'
+SPEECH_ALIGNMENT_TEMP_FOLDER='temp_alignment'
+SPEECH_ALIGNMENT_FILENAME='alignment.json'
+ANIMATIONS_PROMPTS_FILENAME='animation_prompts.json'
+ANIMATIONS_FOLDER='animations'
+VIDEO_FILENAME='video.mp4'
+
+[freepik]
+API_KEY = ''

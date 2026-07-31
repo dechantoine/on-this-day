@@ -1,0 +1,35 @@
+{
+    "hooks": [
+        {
+            "hook": "He plunged his horse off a thirty-foot cliff, fully armored, into a raging river. And Genghis Khan, the most feared conqueror, ordered his archers not to shoot.",
+            "temperature": 0.7,
+            "scripts": [
+                {
+                    "script": {
+                        "title": "The Leap of Defiance: Genghis Khan's Unlikely Mercy at the Indus",
+                        "hook": "He plunged his horse off a thirty-foot cliff, fully armored, into a raging river. And Genghis Khan, the most feared conqueror, ordered his archers not to shoot.",
+                        "context": "On this day, November 24, 1221, the Battle of the Indus unfolded between the forces of Jalal al-Din, the Khwarazmshah, and Genghis Khan's Mongol army. This decisive engagement marked the concluding chapter of the Mongol invasion of the Khwarazmian Empire. Jalal al-Din's army found itself trapped against the mighty Indus River.",
+                        "rising_tension": "After an earlier upset victory against the Mongols, Jalal al-Din's army had weakened significantly due to internal disputes and the relentless pursuit by Genghis Khan. With his forces outnumbered and cornered on the riverbanks, the Shah realized his position was hopeless.",
+                        "climax": "As the battle turned decisively against him, Jalal al-Din, in full armor, made a desperate decision. He rode his horse off a thirty-foot cliff, plunging into the turbulent waters of the Indus. Struck by this audacious act of bravery, Genghis Khan commanded his archers to hold their fire, allowing his formidable enemy to reach the opposite shore.",
+                        "conclusion": "Though Jalal al-Din escaped, his family and nearly all his remaining soldiers were tragically lost, signifying the end of organized Khwarazmian resistance. This extraordinary moment solidified Genghis Khan's legacy not only as a ruthless conqueror but also as a leader capable of profound respect for an enemy's courage."
+                    },
+                    "temperature": 0.7
+                }
+            ]
+        },
+        {
+            "hook": "This wasn't just a battle; it was the final, desperate gasp of an empire, where a prince's impossible escape defied death, but not ultimate defeat.",
+            "temperature": 0.7,
+            "scripts": null
+        },
+        {
+            "hook": "Imagine being the last hope of an empire, cornered by Genghis Khan, and your only option is a suicidal leap... that actually works.",
+            "temperature": 0.7,
+            "scripts": null
+        }
+    ],
+    "selected_script_index": [
+        0,
+        0
+    ]
+}

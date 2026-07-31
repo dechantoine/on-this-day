@@ -1,0 +1,182 @@
+{
+    "image_prompts": [
+        {
+            "script_segment": "He plunged his horse off a thirty-foot cliff, fully armored, into a raging river.",
+            "image_prompts": [
+                {
+                    "prompt": "Cinematic action shot, dynamic low-angle view of a young 13th-century Turkic-Persian warrior, Jalal al-Din, mid-air on his powerful Turkoman warhorse, having just leaped from a thirty-foot rocky cliff. His face is a mask of desperate determination, streaked with dirt and sweat. He wears ornate but functional Khwarazmian lamellar scale armor and a conical iron helmet with a mail aventail. Below them, the wide, fast-flowing, muddy waters of the Indus River churn violently. The scene is captured in the harsh light of day, filled with dust and river spray, creating an earthy and brutal palette of dusty browns, ochre, and muddy green-brown, punctuated by the glint of steel. Ultra-realistic photo, cinematic still from a historical epic, high detail, dramatic lighting, depth of field, motion blur on the water.",
+                    "negative_prompt": "Cartoon, illustration, painting, 3d render, fantasy, modern, oversaturated colors, poor anatomy, extra limbs, deformed, blurry face.",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_0/0.png",
+                        "./prd/2025-11-24/candidate_images/images_0/1.png"
+                    ]
+                },
+                {
+                    "prompt": "Extreme low-angle cinematic action shot of a 13th-century Turkic-Persian warrior, Jalal al-Din, and his powerful Turkoman warhorse, suspended entirely in mid-air during a desperate, gravity-defying leap from a high rocky cliff. They are captured mid-fall, halfway between the cliff edge above and the turbulent river far below. Jalal al-Din, a man in his early 20s with a face streaked with dirt and sweat, shows an expression of pure, desperate resolve. He wears ornate Khwarazmian lamellar scale armor and a conical iron helmet, the steel glinting in the harsh light. His stocky warhorse is tense, its legs tucked as it plunges downwards. Below, the wide, muddy, green-brown waters of the Indus River churn violently. The atmosphere is chaotic, filled with dust and river spray. Ultra-realistic photorealistic still from a high-budget historical epic, shot on 70mm film, extreme detail, motion blur on the background, tack-sharp focus on the warrior and horse, earthy and brutal color palette.",
+                    "negative_prompt": "Cartoon, illustration, painting, 3d render, fantasy, modern, oversaturated colors, poor anatomy, extra limbs, deformed, blurry face, standing on ground, touching water, on the cliff edge, swimming, calm water, peaceful, static.",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_0/2.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_0/2.png"
+        },
+        {
+            "script_segment": "And Genghis Khan, the most feared conqueror, ordered his archers not to shoot.",
+            "image_prompts": [
+                {
+                    "prompt": "Cinematic medium shot of a formidable 60-year-old Genghis Khan on his dark warhorse, his face stern and weathered. He wears historically accurate Mongol lamellar armor of hardened leather and iron plates over a silk deel, and a conical iron helmet. He forcefully raises a gauntleted hand in a 'stop' gesture. Behind him, a line of Mongol archers, their faces showing surprise, lower their composite bows in unison. The scene is set on a dusty battlefield overlook, with the air thick with swirling dust under a harsh sun. The lighting is dramatic, casting long shadows and highlighting the glint of steel. The color palette is earthy and brutal, dominated by dusty browns and ochre. Ultra-realistic photo, cinematic still, depth of field, high detail.",
+                    "negative_prompt": "fantasy elements, cartoon, illustration, painting, video game, modern clothing, inaccurate armor, gore, blood",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_1/0.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_1/0.png"
+        },
+        {
+            "script_segment": "On this day, November 24, 1221, the Battle of the Indus unfolded between the forces of Jalal al-Din, the Khwarazmshah, and Genghis Khan's Mongol army.",
+            "image_prompts": [
+                {
+                    "prompt": "Epic wide-angle cinematic still from a high-budget historical film, photorealistic, the chaotic Battle of the Indus. A formidable 60-year-old Genghis Khan, with a stern expression, wearing a Mongol lamellar cuirass of hardened leather and iron plates over a silk deel and a conical iron helmet, leads a massive charge of Mongol cavalry on horseback from the right. They violently clash with Khwarazmian infantry. The battle rages on a wide, dusty plain next to the fast-flowing, muddy Indus River. The air is thick with kicked-up dust and river spray under the harsh daylight. The scene uses an earthy, brutal palette of dusty browns, ochre, and muddy greens, with the glint of steel armor and weapons cutting through the chaos. Extreme detail, dramatic lighting, motion blur, depth of field.",
+                    "negative_prompt": "Fantasy elements, magic, monsters, modern clothing, poor anatomy, cartoon, anime, video game, blurry, out of focus, poorly drawn faces, disfigured, deformed.",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_2/0.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_2/0.png"
+        },
+        {
+            "script_segment": "This decisive engagement marked the concluding chapter of the Mongol invasion of the Khwarazmian Empire.",
+            "image_prompts": [
+                {
+                    "prompt": "Cinematic action shot of a powerful Mongol warrior in dusty leather and iron lamellar armor slamming his round shield into an exhausted Khwarazmian soldier. The Khwarazmian, wearing worn mail armor, stumbles backward in desperation towards the muddy edge of a turbulent river. The background shows a chaotic battle with clashing soldiers blurred by motion and dust. The lighting is dramatic and gritty, catching the glint of steel and the spray from the river. The color palette is earthy and brutal, with dusty browns, ochre, and muddy greens. Ultra-realistic photo, high detail, depth of field, style of a historical epic film.",
+                    "negative_prompt": "Clean armor, fantasy weapons, gore, bright colors, static poses, cartoon, illustration.",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_3/0.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_3/0.png"
+        },
+        {
+            "script_segment": "Jalal al-Din's army found itself trapped against the mighty Indus River.",
+            "image_prompts": [
+                {
+                    "prompt": "Epic high-angle cinematic wide shot of the Battle of the Indus. Thousands of Khwarazmian soldiers and cavalry are hopelessly trapped, their backs against the vast, churning, muddy-brown Indus River. A massive Mongol army forms a closing semi-circle on the dusty, chaotic plain, pressing them against the water in a pincer movement. The atmosphere is brutal and desperate, with harsh daylight cutting through air thick with dust and river spray. The image is an ultra-realistic photo, a still from a historical epic film, with an earthy color palette of dusty browns, ochre, and the glint of steel armor.",
+                    "negative_prompt": "Fantasy armor, magic, glowing weapons, clean uniforms, modern elements, cartoon, anime",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_4/0.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_4/0.png"
+        },
+        {
+            "script_segment": "After an earlier upset victory against the Mongols, Jalal al-Din's army had weakened significantly due to internal disputes and the pursuit by Genghis Khan.",
+            "image_prompts": [
+                {
+                    "prompt": "Cinematic medium shot inside a large, dimly lit 13th-century campaign tent at night. A young, 20-year-old Turkic-Persian Shah, Jalal al-Din, with an intense expression and a face streaked with dirt and sweat, stands arguing over a map-strewn table. He wears ornate but functional Khwarazmian scale armor. He gestures angrily towards two of his generals, whose defiant body language shows them looking away from him. The scene is lit by the warm, flickering orange of a single oil lamp, casting deep, dramatic shadows and creating a high-contrast, chiaroscuro effect. The atmosphere is tense and desperate. Ultra-realistic photo, cinematic still from a historical epic, earthy color palette of dusty browns and ochre, sharp focus, depth of field.",
+                    "negative_prompt": "Bright lighting, modern elements, clean faces, smiling, calm expressions, digital art, illustration, painting.",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_5/0.png",
+                        "./prd/2025-11-24/candidate_images/images_5/1.png"
+                    ]
+                },
+                {
+                    "prompt": "Cinematic medium shot inside a large, dimly lit 13th-century campaign tent at night. A young, 20-year-old Turkic-Persian Shah, Jalal al-Din, with a short dark beard, an intense expression, and a face streaked with dirt and sweat, stands arguing over a map-strewn table. He wears ornate but functional Khwarazmian scale armor and a conical iron helmet. He gestures angrily towards two of his generals, whose defiant body language shows them looking away from him. The scene is lit by the warm, flickering orange of a single oil lamp, casting deep, dramatic shadows and creating a high-contrast, chiaroscuro effect. The atmosphere is tense and desperate. Ultra-realistic photo, cinematic still from a historical epic, earthy color palette of dusty browns and ochre, sharp focus, depth of field.",
+                    "negative_prompt": "Clean-shaven, no beard, bright lighting, modern elements, clean faces, smiling, calm expressions, digital art, illustration, painting.",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_5/2.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_5/2.png"
+        },
+        {
+            "script_segment": "With his forces outnumbered and cornered on the riverbanks, the Shah realized his position was hopeless.",
+            "image_prompts": [
+                {
+                    "prompt": "Cinematic tight close-up photo of Jalal al-Din, a 20-year-old Turkic-Persian Shah. His face, streaked with dirt and sweat, is a mask of profound despair shifting to desperate resolve. He wears ornate but functional Khwarazmian lamellar iron armor and a conical helmet with a mail aventail. The background is a chaotic battle on a riverbank, blurred by a shallow depth of field. Dramatic, high-contrast lighting illuminates his intense expression, capturing the glint of steel and the earthy, brutal color palette of dusty browns and ochre. Ultra-realistic, photorealistic, cinematic film still, 8K, sharp focus.",
+                    "negative_prompt": "Painting, illustration, cartoon, 3D render, CGI, video game, blurry, poor quality, clean face, modern clothing.",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_6/0.png",
+                        "./prd/2025-11-24/candidate_images/images_6/1.png"
+                    ]
+                },
+                {
+                    "prompt": "Extreme close-up cinematic photo of a 22-year-old Turkic-Persian Shah, Jalal al-Din, during a losing battle. His face is caked with grime, sweat, and a smear of blood. His dark eyes, filled with the anguish of defeat, now hold a newly ignited spark of desperate, defiant resolve. He wears a dented, battle-worn conical iron helmet and Khwarazmian lamellar armor. Harsh, low-angle sunlight cuts through the dusty, chaotic air, highlighting the raw emotion on his face. The background is a heavily blurred maelstrom of battle by a river. Earthy, brutal color palette of dusty browns and ochre. Hyper-realistic, hyper-detailed, sharp focus on the eyes, shallow depth of field, 8K.",
+                    "negative_prompt": "Painting, illustration, 3D render, CGI, cartoon, video game. Clean face, clean armor, perfect skin, smiling, calm expression, stoic, emotionless. Modern clothing, modern haircut. Studio lighting, symmetrical, posed, looking at camera.",
+                    "images_path": []
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_6/0.png"
+        },
+        {
+            "script_segment": "As the battle turned decisively against him, Jalal al-Din, in full armor, made a desperate decision.",
+            "image_prompts": [
+                {
+                    "prompt": "Cinematic over-the-shoulder shot from behind Jalal al-Din, a young 20-something Turkic-Persian Shah, his face streaked with dirt and sweat, showing profound despair mixed with fierce resolve. He wears ornate but functional Khwarazmian lamellar iron armor and a conical helmet with a mail aventail. He sits astride a powerful, stocky Turkoman warhorse with 13th-century Central Asian tack. He pulls sharply on the reins, his body tense, turning the horse to face a sheer cliff edge. He is at the edge of a thirty-foot rocky drop to the wide, turbulent, muddy green-brown Indus River below. In the background, the chaos of a losing battle is visible through dust and smoke. The scene is illuminated by the dramatic golden light of a setting sun, casting long, epic shadows. Dust and river spray hang in the air, catching the light. The glint of iron and steel cuts through the earthy, brutal palette of dusty browns and ochre. Ultra-realistic photorealistic cinematic still, high detail, depth of field, epic historical film, restored archival photograph.",
+                    "negative_prompt": "cartoon, illustration, painting, video game, fantasy armor, oversized pauldrons, modern tack, calm water, clean face, serene expression",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_7/0.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_7/0.png"
+        },
+        {
+            "script_segment": "He rode his horse off a thirty-foot cliff, plunging into the turbulent waters of the Indus!",
+            "image_prompts": [
+                {
+                    "prompt": "Cinematic still, dramatic side-angle shot of Jalal al-Din, a determined 20-something Turkic-Persian Shah with a face streaked with dirt and sweat, wearing ornate 13th-century Khwarazmian lamellar armor and a conical iron helmet. He spurs his powerful Turkoman warhorse, causing it to leap powerfully from the edge of a high, ochre-colored cliff. They are captured mid-air, momentarily silhouetted against a vast, dusty sky, beginning their descent towards the raging, muddy green-brown waters of the Indus River far below. Dramatic backlighting creates a powerful silhouette, with the glint of steel on his armor and sabre cutting through the gloom. The atmosphere is one of desperate resolve. Ultra-realistic photo, photorealistic, high detail, depth of field, epic scale.",
+                    "negative_prompt": "Cartoon, illustration, fantasy, modern clothing, poor anatomy, clean, pristine, multiple people, calm water.",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_8/0.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_8/0.png"
+        },
+        {
+            "script_segment": "Struck by this audacious act of bravery, Genghis Khan commanded his archers to hold their fire, allowing his formidable enemy to reach the opposite shore.",
+            "image_prompts": [
+                {
+                    "prompt": "Cinematic close-up portrait of Genghis Khan, a formidable 60-year-old Mongolian leader, his face etched with astonishment and deep admiration. He wears a historically accurate conical iron helmet and a lamellar cuirass of hardened leather plates over a silk robe. His weathered face is in sharp focus, capturing the shift from sternness to respect as he watches his enemy escape across a river. The background is a blur of the turbulent, muddy-brown Indus river and his waiting army. Dramatic late-afternoon lighting creates deep shadows, emphasizing the textures of his skin and armor. The color palette is earthy, with dusty browns, ochre, and the glint of steel. Ultra-realistic photo, cinematic still, high detail, depth of field, film grain.",
+                    "negative_prompt": "painting, illustration, cartoon, 3d render, anime, disfigured, poor anatomy, blurry, watermark",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_9/0.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_9/0.png"
+        },
+        {
+            "script_segment": "Though Jalal al-Din escaped, his family and nearly all his remaining soldiers were tragically lost, signifying the end of organized Khwarazmian resistance.",
+            "image_prompts": [
+                {
+                    "prompt": "Cinematic medium shot of a small, huddled group of captured Khwarazmian women and children, the family of Jalal al-Din, on a riverbank after a battle. The women, wearing traditional but now tattered and dusty 13th-century Central Asian robes, have faces streaked with dirt and tears, their expressions etched with profound grief and despair. They are guarded by stoic, battle-hardened Mongol soldiers in lamellar armor, holding spears. The setting is the muddy bank of a wide, turbulent river under an overcast dusk sky. The scene is lit by the low, somber light of twilight, with the warm, flickering orange glow of a nearby campfire casting long, deep shadows. The atmosphere is heavy and quiet, with a color palette of dusty browns, ochre, and muddy greens. Ultra-realistic photo, dramatic lighting, high detail, depth of field, restored archival photograph.",
+                    "negative_prompt": "gore, blood, explicit violence, dead bodies, fighting, cartoon, illustration, painting, smiling, cheerful",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_10/0.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_10/0.png"
+        },
+        {
+            "script_segment": "This extraordinary moment solidified Genghis Khan's legacy not only as a ruthless conqueror but also as a leader capable of profound respect for an enemy's courage .",
+            "image_prompts": [
+                {
+                    "prompt": "Cinematic wide shot of a formidable 60-year-old Genghis Khan on his warhorse, dramatically silhouetted against a brilliant setting sun. He is on a high, rocky cliff bank, gazing intently across the wide, fast-flowing, muddy Indus River towards the distant shore. His stern Mongolian face, partially in shadow, shows a complex mask of a ruthless victor filled with profound respect and admiration. He wears historically accurate Mongol lamellar armor of hardened leather and iron plates over a silk deel, and a conical iron helmet. The golden hour light casts long, deep shadows, creating a somber and epic mood with an earthy palette of dusty browns and ochre. Ultra-realistic photo, shot on 70mm film, high contrast, dramatic lighting, depth of field.",
+                    "negative_prompt": "illustration, painting, 3d render, cartoon, anime, multiple people, army, modern clothing, pristine, clean, European armor, Japanese armor",
+                    "images_path": [
+                        "./prd/2025-11-24/candidate_images/images_11/0.png"
+                    ]
+                }
+            ],
+            "selected_image_path": "./prd/2025-11-24/candidate_images/images_11/0.png"
+        }
+    ]
+}
